@@ -21,6 +21,11 @@ List container images:
 container image ls
 ```
 
+Delete the container image:
+```bash
+container image rm nginx:alpine
+```
+
 Stop container service:
 ```bash
 container system stop
